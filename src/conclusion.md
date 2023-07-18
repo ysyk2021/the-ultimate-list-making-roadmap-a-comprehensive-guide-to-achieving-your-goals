@@ -1,8 +1,5 @@
 # Conclusion
 
-Conclusion
-==========
-
 The Ongoing Journey of Effective List-Making
 --------------------------------------------
 
