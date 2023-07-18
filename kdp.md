@@ -12,7 +12,6 @@ But effective list-making is about more than just writing down your goals and ta
 
 "The Ultimate List-Making Roadmap" covers all aspects of effective list-making, from setting clear goals and creating actionable plans to staying organized and focused, managing your time effectively, and achieving sustained success. Whether you're just starting out on your journey of self-improvement or looking to take your success to the next level, this book will be an invaluable resource for achieving your goals and living a fulfilling life.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
