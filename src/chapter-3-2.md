@@ -40,7 +40,7 @@ One straightforward approach is to create a simple list format. Start by listing
 
 Example:
 
-    Copy Code- [Home] Clean the living room
+    - [Home] Clean the living room
     - [Work] Prepare presentation for meeting
     - [Errands] Buy groceries
 
@@ -50,7 +50,7 @@ Dividing your list into headers or sections can make it easier to navigate and c
 
 Example:
 
-    Copy Code## Work-related Tasks
+    ## Work-related Tasks
 
     - [High Priority] Prepare presentation for meeting
     - [Medium Priority] Respond to important emails
@@ -71,7 +71,7 @@ Color-coding tasks or categories is an effective visual technique that allows fo
 
 Example:
 
-    Copy Code- [Red] Urgent work task: Prepare presentation for meeting
+    - [Red] Urgent work task: Prepare presentation for meeting
     - [Green] Home task: Clean the living room
     - [Blue] Errand: Buy groceries
 
