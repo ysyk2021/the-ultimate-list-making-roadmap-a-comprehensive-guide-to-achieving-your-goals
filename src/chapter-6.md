@@ -18,11 +18,6 @@ Celebrating Achievements
 
 Celebrating achievements is an important part of staying motivated and maintaining momentum towards your goals. This can involve acknowledging small wins along the way, such as completing a difficult task or meeting a deadline, as well as celebrating larger achievements, such as completing a major project or reaching a long-term goal.
 
-Rewards and Incentives
-----------------------
-
-Rewards and incentives can also be effective ways to celebrate achievements and stay motivated. This can include treating yourself to something you enjoy, taking a break or vacation, or rewarding yourself with a special purchase.
-
 Conclusion
 ----------
 

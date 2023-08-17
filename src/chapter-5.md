@@ -18,16 +18,6 @@ Managing Distractions and Interruptions
 
 Managing distractions and interruptions is essential to maximizing productivity and staying focused on important tasks. Consider implementing strategies such as turning off notifications on your phone or email, or finding a quiet workspace free of distractions.
 
-Avoiding Procrastination
-------------------------
-
-Procrastination can be a major obstacle to achieving your goals. To avoid procrastination, consider breaking down tasks into smaller, more manageable ones, setting specific goals and deadlines, and rewarding yourself for accomplishments.
-
-Scheduling Breaks and Downtime
-------------------------------
-
-Scheduling breaks and downtime is essential to maintaining focus and avoiding burnout. Prioritize activities that promote physical and mental well-being, such as exercise, meditation, or spending time with loved ones.
-
 Conclusion
 ----------
 
