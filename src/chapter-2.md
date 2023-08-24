@@ -1,5 +1,3 @@
-Chapter 1: Understanding List-Making
-====================================
 
 List-making is a powerful tool for achieving your goals and increasing productivity. In this chapter, we will discuss what list-making is, the types of lists you can make, and the benefits of effective list-making.
 

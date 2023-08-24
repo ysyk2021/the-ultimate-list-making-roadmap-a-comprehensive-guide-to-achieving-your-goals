@@ -1,5 +1,3 @@
-Chapter 2: Developing a List-Making Strategy
-============================================
 
 Developing a list-making strategy is essential to achieving your goals. In this chapter, we will discuss strategies for identifying your goals and priorities, creating a system for organizing and categorizing lists, and choosing the right tools for list-making.
 

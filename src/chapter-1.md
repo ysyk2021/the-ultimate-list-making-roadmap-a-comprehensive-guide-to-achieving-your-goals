@@ -1,5 +1,3 @@
-Introduction
-============
 
 Welcome to The Ultimate List-Making Roadmap! This comprehensive guide is designed to provide you with the knowledge and skills you need to master list-making and achieve your goals with greater ease and efficiency.
 

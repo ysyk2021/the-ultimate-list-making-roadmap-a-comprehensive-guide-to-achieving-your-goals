@@ -1,5 +1,3 @@
-Building Resilience in the Face of Setbacks
-====================================================
 
 In our pursuit of achieving our goals, setbacks and obstacles are inevitable. However, it is our ability to bounce back from these challenges and maintain our motivation that determines our ultimate success. Building resilience is a crucial skill that empowers us to navigate through setbacks with determination, adaptability, and perseverance. In this chapter, we will explore effective strategies for building resilience and overcoming setbacks on our journey to success.
 

@@ -1,5 +1,3 @@
-Chapter 5: Tracking Progress and Celebrating Success
-====================================================
 
 Tracking progress and celebrating success is an essential part of effective list-making. In this chapter, we will discuss strategies for establishing metrics for success, monitoring and evaluating progress, and celebrating achievements.
 

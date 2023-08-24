@@ -1,5 +1,3 @@
-Types of Lists
-=======================
 
 Lists are versatile tools that can be used for a wide range of purposes. They provide structure, organization, and clarity to our thoughts, tasks, and goals. In this chapter, we will explore various types of lists and how each serves a unique purpose in helping us achieve our objectives. Understanding these different types of lists will empower you to leverage their full potential in your quest for success.
 

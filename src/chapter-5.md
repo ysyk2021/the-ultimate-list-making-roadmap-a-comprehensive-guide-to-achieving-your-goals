@@ -1,5 +1,3 @@
-Chapter 4: Prioritizing and Time-Management
-===========================================
 
 Prioritizing tasks and managing time effectively is essential to achieving your goals. In this chapter, we will discuss strategies for prioritizing tasks and managing time.
 

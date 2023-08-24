@@ -1,5 +1,3 @@
-Why List-Making is Important
-=====================================
 
 To achieve our goals and lead a productive and organized life, it is crucial to develop effective strategies that help us stay focused, prioritize tasks, and track our progress. One such strategy that has stood the test of time is list-making. In this chapter, we will explore the importance of list-making and how it can significantly contribute to achieving our goals and improving overall productivity.
 

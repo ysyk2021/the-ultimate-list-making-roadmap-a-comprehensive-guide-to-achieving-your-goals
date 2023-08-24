@@ -1,5 +1,3 @@
-What is List-Making?
-=============================
 
 In our fast-paced and complex world, keeping track of tasks, goals, and ideas can be challenging. That's where list-making comes in. List-making is a simple yet powerful technique that helps individuals organize their thoughts, prioritize tasks, and achieve their goals effectively. In this chapter, we will explore the concept of list-making, its benefits, and practical strategies for creating effective lists.
 

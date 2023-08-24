@@ -1,5 +1,3 @@
-Chapter 7: Maximizing List-Making Efficiency
-============================================
 
 In this chapter, we will explore strategies for maximizing list-making efficiency and effectiveness.
 

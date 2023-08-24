@@ -1,5 +1,3 @@
-Celebrating Achievements
-=================================
 
 Celebrating achievements is a vital aspect of the journey towards achieving our goals. This chapter explores the significance of celebrating milestones and provides strategies for effectively acknowledging and appreciating our accomplishments. By embracing these techniques, individuals can boost motivation, reinforce progress, and cultivate a positive mindset.
 

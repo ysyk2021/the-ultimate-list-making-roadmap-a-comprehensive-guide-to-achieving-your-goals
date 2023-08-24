@@ -1,5 +1,3 @@
-Chapter 6: Overcoming Obstacles
-===============================
 
 Overcoming obstacles is an essential part of effective list-making and goal achievement. In this chapter, we will discuss common obstacles to achieving goals, strategies for overcoming them, and building resilience in the face of setbacks.
 

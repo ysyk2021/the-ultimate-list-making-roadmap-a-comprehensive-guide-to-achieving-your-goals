@@ -1,5 +1,3 @@
-Chapter 3: Creating Effective Lists
-===================================
 
 Creating effective lists is essential to achieving your goals. In this chapter, we will discuss techniques for creating effective lists, incorporating visualization techniques, and balancing short-term and long-term goals.
 
